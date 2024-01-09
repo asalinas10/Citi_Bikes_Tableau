@@ -109,7 +109,38 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 - Both graphs are consistent with each other in that their peak rental times coincide with rush hour.
 
-6. 
+6. Create a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
+
+    - July
+
+![Alt text](<Screen Shot 2024-01-09 at 3.18.03 PM.png>)
+
+![Alt text](<Screen Shot 2024-01-09 at 3.18.11 PM.png>)
+
+    - December
+
+![Alt text](<Screen Shot 2024-01-09 at 3.19.00 PM.png>)
+
+![Alt text](<Screen Shot 2024-01-09 at 3.19.09 PM.png>)
+
+- Both maps are consistent with each other in that despite that change in total rides, more rides start in the center of NYC and end in more resendtial sections. One key differnece between the two maps is that in December, there is less of a variety in end stations as outdoor spaces are less frequented in the winter months than in the summer.
+
+7. Create a Dashboard to show functionality.
+
+    - July
+
+![Alt text](<Screen Shot 2024-01-09 at 3.24.24 PM.png>)
+
+![Alt text](<Screen Shot 2024-01-09 at 3.24.36 PM.png>)
+
+    - December
+
+![Alt text](<Screen Shot 2024-01-09 at 3.25.11 PM.png>)
+
+![Alt text](<Screen Shot 2024-01-09 at 3.25.19 PM.png>)
+
+- In this section I showed the fucnctionality between my Ride Station maps and Popular Stattion graphs.
+
 
 
 
