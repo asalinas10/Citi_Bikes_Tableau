@@ -23,11 +23,65 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 There were clearly more rides in July likely due how warm it is while it gets very cold in December in New York.
 
-2. Where were the most popular start stations?
+2. What were the most popular start stations?
 
+    - In July, the top 5 stations were:
 
+        - West St & Chambers St
 
+        - W 21st & 6th Ave
 
+        - Broadway & W 58th
+
+        - Broadway & E 14th
+
+        - 6th Ave & W 33rd St
+
+![Alt text](<Screen Shot 2024-01-09 at 2.32.10 PM.png>)
+
+    - In Dec, the top 5 stations were:
+
+        - W 21st & 6th Ave
+
+        - 1st Ave & E 68th St
+
+        - Broadway & W 58th
+
+        - University Pl & E 14th
+
+        - 6th Ave & W 33rd St
+
+![Alt text](<Screen Shot 2024-01-09 at 2.42.33 PM.png>)
+
+3. What were the most popular end stations?
+
+    - In July, the top 5 stations were:
+
+        - West St & Chambers St
+        
+        - W 21st & 6th Ave
+
+        - Broadway & E 14th
+
+        - 12th Ave & W 40th St
+
+        - Broadway & W 58th
+
+![Alt text](<Screen Shot 2024-01-09 at 2.43.08 PM.png>)
+
+    - In Dec, the top 5 stations were:
+
+        - W 21st & 6th Ave
+
+        - 1st Ave & E 68th St
+
+        - Broadway & W 58th
+
+        - University Pl & E 14th
+
+        - 6th Ave & W 33rd St
+
+![Alt text](<Screen Shot 2024-01-09 at 2.44.56 PM.png>)
 
 
 
