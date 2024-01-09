@@ -97,7 +97,19 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 - Most days are consistent with a few outliers. December 11th had lower than usual numbers due to snow storm as shown in this article: https://www.news10.com/weather/12-11-2022-snow-day-sunday/. December 16th also had a low day due to another storm that came in: https://www.fox5ny.com/news/winter-storm-new-york-city-snow. December 25th was also low due to Christmas.
 
+5. What were the popular times?
 
+    - July
+
+![Alt text](<Screen Shot 2024-01-09 at 3.13.26 PM.png>)
+
+    - December
+
+![Alt text](<Screen Shot 2024-01-09 at 3.14.02 PM.png>)
+
+- Both graphs are consistent with each other in that their peak rental times coincide with rush hour.
+
+6. 
 
 
 
