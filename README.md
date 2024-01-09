@@ -51,7 +51,7 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
         - 6th Ave & W 33rd St
 
-![Alt text](<Screen Shot 2024-01-09 at 2.42.33 PM.png>)
+![Alt text](<Screen Shot 2024-01-09 at 3.07.34 PM.png>)
 
 3. What were the most popular end stations?
 
@@ -67,7 +67,7 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
         - Broadway & W 58th
 
-![Alt text](<Screen Shot 2024-01-09 at 2.43.08 PM.png>)
+![Alt text](<Screen Shot 2024-01-09 at 3.08.25 PM.png>)
 
     - In Dec, the top 5 stations were:
 
@@ -81,7 +81,7 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
         - 6th Ave & W 33rd St
 
-![Alt text](<Screen Shot 2024-01-09 at 2.44.56 PM.png>)
+![Alt text](<Screen Shot 2024-01-09 at 3.08.49 PM.png>)
 
 4. What are the most popular days? Outliers?
 
@@ -93,7 +93,7 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
     - December
 
-![Alt text](<Screen Shot 2024-01-09 at 2.53.30 PM.png>)
+![Alt text](<Screen Shot 2024-01-09 at 3.09.24 PM.png>)
 
 - Most days are consistent with a few outliers. December 11th had lower than usual numbers due to snow storm as shown in this article: https://www.news10.com/weather/12-11-2022-snow-day-sunday/. December 16th also had a low day due to another storm that came in: https://www.fox5ny.com/news/winter-storm-new-york-city-snow. December 25th was also low due to Christmas.
 
