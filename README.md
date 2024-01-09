@@ -89,13 +89,13 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 ![Alt text](<Screen Shot 2024-01-09 at 2.52.40 PM.png>)
 
-    - Most of the days numbers were consistently high with the excpetion of July 4th weekend which is a popular time for local citizens to be out of town. July 18th was also an outlier but after further investigation I discovered there was torrential raintorms that day as described in this article: https://ny1.com/nyc/all-boroughs/weather/2022/07/18/parts-of-city-experienced-heavy-flooding-monday-afternoon
+- Most of the days numbers were consistently high with the excpetion of July 4th weekend which is a popular time for local citizens to be out of town. July 18th was also an outlier but after further investigation I discovered there was torrential raintorms that day as described in this article: https://ny1.com/nyc/all-boroughs/weather/2022/07/18/parts-of-city-experienced-heavy-flooding-monday-afternoon
 
     - December
 
 ![Alt text](<Screen Shot 2024-01-09 at 2.53.30 PM.png>)
 
-    - Most days are consistent with a few outliers. December 11th had lower than usual numbers due to snow storm as shown in this article: https://www.news10.com/weather/12-11-2022-snow-day-sunday/. December 16th also had a low day due to another storm that came in: https://www.fox5ny.com/news/winter-storm-new-york-city-snow. December 25th was also low due to Christmas.
+- Most days are consistent with a few outliers. December 11th had lower than usual numbers due to snow storm as shown in this article: https://www.news10.com/weather/12-11-2022-snow-day-sunday/. December 16th also had a low day due to another storm that came in: https://www.fox5ny.com/news/winter-storm-new-york-city-snow. December 25th was also low due to Christmas.
 
 
 
