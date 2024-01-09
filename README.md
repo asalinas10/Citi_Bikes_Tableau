@@ -139,8 +139,19 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.25.19 PM.png>)
 
-- In this section I showed the fucnctionality between my Ride Station maps and Popular Stattion graphs.
+- In this section I showed the fucnctionality between my Ride Station maps and Popular Stattion graphs. Full functionality can be seen through my link to my public Tableau.
 
+8. Create a story
+
+    - July
+
+![Alt text](<Screen Shot 2024-01-09 at 3.28.40 PM.png>)
+
+    - December
+
+![Alt text](<Screen Shot 2024-01-09 at 3.29.13 PM.png>)
+
+- In this section I created Tableau Stories that can be viewed through my Tableau public link.
 
 
 
