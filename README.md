@@ -4,8 +4,9 @@ Since 2013, the Citi Bike program in New York City has implemented a robust infr
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers using Tableau. 
 
-Dats provided was collected from July and December 2022.
+Data provided was collected from July and December 2022.
 
+There was an issue with pushing the csv files to github, so here is a link to the data I used: https://s3.amazonaws.com/tripdata/index.html
 
 # Summary
 
