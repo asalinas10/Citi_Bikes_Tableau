@@ -111,6 +111,8 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 6. Create a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 
+* There are gaps in latitude and longitude data as it shows less rides than the previous charts, but that data is still consistent throughout the set.
+
     - July
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.18.03 PM.png>)
@@ -131,15 +133,23 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.24.24 PM.png>)
 
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_July_StartDash/StartDashJuly?publish=yes
+
 ![Alt text](<Screen Shot 2024-01-09 at 3.24.36 PM.png>)
+
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_July_EndDash/EndDashJuly?publish=yes
 
     - December
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.25.11 PM.png>)
 
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_Dec_StartDash/StartDashDec?publish=yes
+
 ![Alt text](<Screen Shot 2024-01-09 at 3.25.19 PM.png>)
 
-- In this section I showed the fucnctionality between my Ride Station maps and Popular Stattion graphs. Full functionality can be seen through my link to my public Tableau.
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_Dec_EndDash/EndDashDec?publish=yes
+
+- In this section I showed the fucnctionality between my Ride Station maps and Popular Stattion graphs. Full functionality can be seen through my links to my public Tableau.
 
 8. Create a story
 
@@ -147,9 +157,13 @@ There were clearly more rides in July likely due how warm it is while it gets ve
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.28.40 PM.png>)
 
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_July_Story/Story1?publish=yes
+
     - December
 
 ![Alt text](<Screen Shot 2024-01-09 at 3.29.13 PM.png>)
+
+https://public.tableau.com/app/profile/adam.salinas/viz/Citi_Bikes_Dec/Story1?publish=yes
 
 - In this section I created Tableau Stories that can be viewed through my Tableau public link.
 
